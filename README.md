@@ -4,7 +4,7 @@ This is a web application that uses the React framework. I programmed this proje
 
 To run the program: - 
   1. Clone the repo
-  2. Unzip the node_modules
+  2. Type "npm install" to install the node_modules
   3. Open up a terminal within the directory
   4. Type in "npm start" -> this will open up a server on your browser and you will be able to view the application.
   
